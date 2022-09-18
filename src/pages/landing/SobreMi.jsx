@@ -4,7 +4,7 @@ const InicioPage = () => {
       <div className="lg:w-full shadow-md shadow-black">
         <img
           class="principal ph-auto min-h-screen"
-          src="\src\img\mifoto.webp"
+          src="https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/landing-page%2Fmifoto.webp?alt=media&token=1f1dffab-e5aa-44cc-a44d-0d2008480635"
           height="100%"
         />
       </div>

@@ -6,7 +6,7 @@ export const Navbar = () => {
   return (
     <>
       <header className="bg-slate-900 flow-root p-3">
-      <img className="float-left w-20 h-20 border-purple-200 border-2 rounded-full" src="/src/img/logo.webp" width="80" height="80"/>
+      <img className="float-left w-20 h-20 border-purple-200 border-2 rounded-full" src="https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/landing-page%2FLOGO.webp?alt=media&token=867b3bca-9f36-45f8-b636-7ebfa75c97ac" width="80" height="80"/>
         
 
       

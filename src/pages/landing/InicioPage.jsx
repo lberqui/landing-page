@@ -4,7 +4,7 @@ const InicioPage = () => {
       <div className="md:flex contenedor h-auto min-h-screen">
 
         <div className="lg:w-full shadow-md shadow-black">
-          <img class="principal ph-auto min-h-screen" src="\src\img\modelo.webp" height="100%" />
+          <img class="principal ph-auto min-h-screen" src="https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/landing-page%2Fmodelo.webp?alt=media&token=df094d59-e56a-4cdf-9758-67d416ac931c" height="100%" />
         </div>
 
 

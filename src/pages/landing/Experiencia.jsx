@@ -6,7 +6,7 @@ const Experiencia = () => {
           <p className="text-white font-bold">To do List</p>
           <img
             className="mt-0 rounded-md"
-            src="/src/img/todolist.jpg"
+            src="https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/landing-page%2Ftodolist.jpg?alt=media&token=8383b900-068e-48b8-ada0-f42eb4510147"
             width="600"
           />
           <a href="https://storied-dasik-44ad01.netlify.app/">
@@ -56,7 +56,7 @@ const Experiencia = () => {
           <p className="text-white font-bold">API Heroes</p>
           <img
             className="mt-0 rounded-md"
-            src="/src/img/Api_Heroes.jpg"
+            src="https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/landing-page%2FApi_Heroes.jpg?alt=media&token=4a978deb-4b26-4f7c-b1fd-6c3177579226"
             width="600"
           />
           
@@ -107,7 +107,7 @@ const Experiencia = () => {
           <p className="text-white font-bold">Landing Page</p>
           <img
             className="mt-0 rounded-md"
-            src="/src/img/landingPage.jpg"
+            src="https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/landing-page%2FlandingPage.jpg?alt=media&token=dd1f0284-7ea6-46b7-909e-3247c7458f68"
             width="600"
           />
       
@@ -118,7 +118,7 @@ const Experiencia = () => {
           <p className="text-white font-bold">API Clima</p>
           <img
             className="mt-0 rounded-md"
-            src="/src/img/clima.jpg"
+            src="https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/landing-page%2Fclima.jpg?alt=media&token=4e79d043-5d79-41ef-ae40-7297fdb43164"
             width="600"
           />
           <a href="https://ephemeral-dolphin-f167c3.netlify.app/">
