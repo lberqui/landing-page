@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+form{
+    width: 25em;
+}
+
+.contenedor{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+}
